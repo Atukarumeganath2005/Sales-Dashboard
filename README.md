@@ -23,8 +23,8 @@ This project presents an interactive **Sales Dashboard** built using Power BI. T
 
 ## 👤 Author
 Atukaru Meganath
-LinkedIn Profile linkedin.com/in/atukarumeganath/
-[Portfolio Website](https://your-portfolio.com) *(optional)*
+[LinkedIn Profile](https://linkedin.com/in/atukarumeganath/)
+[Portfolio Website](https://atukarumeganath.my.canva.site/)
 
 ---
 
