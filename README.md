@@ -5,6 +5,14 @@ This project presents an interactive **Sales Dashboard** built using Power BI. T
 
 ## 📂 Project Structure
 
+Sales-Dashboard/
+├── Sales-Dashboard.pbix # Main Power BI report
+├── Data/
+│ └── sales-data.xlsx # Sample sales dataset
+├── Screenshots/
+│ └── dashboard-preview.png # Visual snapshot of the dashboard
+└── README.md # Project description
+
 ## 📈 Features
 - Total Sales, Profit, and Quantity KPIs
 - Sales trend by Month and Year
